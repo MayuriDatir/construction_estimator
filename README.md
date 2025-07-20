@@ -7,11 +7,15 @@ A powerful **web-based tool** built using **PHP and MySQL** to help users **esti
 
 ### 🔥 KEY FEATURES
 
-✅* **USER-FRIENDLY INTERFACE** – Simple and intuitive form to enter project details
-✅* **DYNAMIC COST CALCULATION** – Auto-calculates cost based on user inputs
-✅* **ADMIN PANEL** – Manage materials, pricing, and categories
-✅* **COST SUMMARY REPORT** – Clean breakdown of estimated expenses
-✅* **ERROR HANDLING** – Input validation to ensure accurate results
+✅ **USER-FRIENDLY INTERFACE** – Simple and intuitive form to enter project details
+
+✅ **DYNAMIC COST CALCULATION** – Auto-calculates cost based on user inputs
+
+✅ **ADMIN PANEL** – Manage materials, pricing, and categories
+
+✅ **COST SUMMARY REPORT** – Clean breakdown of estimated expenses
+
+✅ **ERROR HANDLING** – Input validation to ensure accurate results
 
 
 
